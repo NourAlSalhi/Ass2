@@ -17,6 +17,6 @@
         </classes>
     </test>
     <listeners>
-        <listener class-name="org.uncommons.reporting.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     </listeners>
 </suite>
