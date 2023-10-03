@@ -14,7 +14,7 @@ on:
 
 jobs:
   build:
-
+    permissions: write-all
     runs-on: ubuntu-latest
 
     steps:
@@ -22,7 +22,7 @@ jobs:
     - name: Set up JDK 20.0
       uses: actions/setup-java@v3
       with:
-        java-version: '21'
+        java-version: '20.0'
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
