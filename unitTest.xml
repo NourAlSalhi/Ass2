@@ -16,4 +16,7 @@
             <class name="LengthStringTest"/>
         </classes>
     </test>
+    <listeners>
+        <listener class-name="org.uncommons.reporting.HTMLReporter"></listener>
+    </listeners>
 </suite>
