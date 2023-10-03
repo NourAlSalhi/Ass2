@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Annatotion Test"
+           tests="٢"
+           failures="٠"
+           errors="0"
+           skipped="٠"
+           time="٠٫٠٠٥">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDivision"
+                time="٠٫٠٠١"
+                classname="AnnTest">
+            </testcase>
+            <testcase
+                name="testSum"
+                time="٠٫٠٠٤"
+                classname="AnnTest">
+            </testcase>
+</testsuite>

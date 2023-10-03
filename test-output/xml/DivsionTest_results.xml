@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Division Test"
+           tests="٢"
+           failures="٠"
+           errors="0"
+           skipped="٠"
+           time="٠٫٠١٥">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testValidData"
+                time="٠٫٠٠٠"
+                classname="DivsionTest">
+            </testcase>
+            <testcase
+                name="testInvalidData"
+                time="٠٫٠١٥"
+                classname="DivsionTest">
+            </testcase>
+</testsuite>

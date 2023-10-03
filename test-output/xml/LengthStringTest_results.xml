@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Length Test"
+           tests="٦"
+           failures="٠"
+           errors="0"
+           skipped="٠"
+           time="٠٫٠١٠">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠١"
+                classname="LengthStringTest">
+            </testcase>
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠١"
+                classname="LengthStringTest">
+            </testcase>
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠٧"
+                classname="LengthStringTest">
+            </testcase>
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠٠"
+                classname="LengthStringTest">
+            </testcase>
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠٠"
+                classname="LengthStringTest">
+            </testcase>
+            <testcase
+                name="testGetLength"
+                time="٠٫٠٠١"
+                classname="LengthStringTest">
+            </testcase>
+</testsuite>
