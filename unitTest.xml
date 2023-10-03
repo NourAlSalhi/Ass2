@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calcuater Suite">
+    <test name="Division Test">
+        <classes>
+        <class name="DivsionTest"/>
+        </classes>
+    </test>
+    <test name="Annatotion Test">
+        <classes>
+            <class name="AnnTest"/>
+        </classes>
+    </test>
+    <test name="Length Test">
+        <classes>
+            <class name="LengthStringTest"/>
+        </classes>
+    </test>
+</suite>
