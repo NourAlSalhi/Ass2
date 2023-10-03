@@ -1,11 +1,16 @@
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 //Default Priority 0
 public class AnnTest {
+    @BeforeClass
+    public void printTestBeforeClass(){
+        System.out.println("Print Class Annotation Test");
+    }
     @BeforeMethod
     public void printStatusBefore(ITestResult result){
         System.out.println(result.getMethod().getMethodName()+" Print Status");
