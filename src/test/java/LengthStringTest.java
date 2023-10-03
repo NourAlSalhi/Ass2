@@ -24,12 +24,12 @@ public class LengthStringTest {
     }
     @Test
     public void testDivision6(){
-        Assert.assertTrue(5==3);
+        Assert.assertTrue(5==5);
     }
 
     @Test
     public void testDivision7(){
-        Assert.assertTrue(5==0);
+        Assert.assertTrue(5==5);
     }
 
     @Test

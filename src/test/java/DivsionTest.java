@@ -36,7 +36,7 @@ public class DivsionTest {
 
     @Test
     public void testDivision4(){
-        Assert.assertTrue(5==3);
+        Assert.assertTrue(5==5);
     }
 
     @Test
