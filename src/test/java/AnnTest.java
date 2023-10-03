@@ -21,7 +21,15 @@ public class AnnTest {
     }
     @Test(priority = 1)
     public void testDivision(){
-        Assert.assertTrue(5==5);
+        Assert.assertTrue(5==4);
+    }
+    @Test
+    public void testDivision2(){
+        Assert.assertTrue(5==3);
+    }
+    @Test
+    public void testDivision3(){
+        Assert.assertTrue(5==3);
     }
     @AfterMethod()
     public void printStatus(ITestResult result){

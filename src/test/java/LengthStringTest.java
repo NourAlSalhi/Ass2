@@ -22,4 +22,18 @@ public class LengthStringTest {
        int length = getLength1.getLength(text);
        Assert.assertEquals(length,expected);
     }
+    @Test
+    public void testDivision6(){
+        Assert.assertTrue(5==3);
+    }
+
+    @Test
+    public void testDivision7(){
+        Assert.assertTrue(5==0);
+    }
+
+    @Test
+    public void testDivision8(){
+        Assert.assertTrue(5==5);
+    }
 }

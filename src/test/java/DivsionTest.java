@@ -28,4 +28,19 @@ public class DivsionTest {
         divisionNumber Divsion = new divisionNumber();
         Divsion.divsion(x,y);
     }
+
+    @Test
+    public void testDivision3(){
+        Assert.assertTrue(5==5);
+    }
+
+    @Test
+    public void testDivision4(){
+        Assert.assertTrue(5==3);
+    }
+
+    @Test
+    public void testDivision5(){
+        Assert.assertTrue(5==5);
+    }
 }
